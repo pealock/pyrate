@@ -2,7 +2,9 @@
 
 ---
 
-### ✅ Requires OpenAI and Eleven Labs API keys
+#### ✅ Requires OpenAI and Eleven Labs API keys
+#### 🔈 Requires ffmpeg installed on PATH
+#### 💻 Probably requires a Unix based machine lol
 
 ---
 ### Getting started
