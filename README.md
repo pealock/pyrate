@@ -12,6 +12,6 @@
 
 `source /venv/bin/activate`
 
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 
 `cp example.env .env` and fill with api keys
