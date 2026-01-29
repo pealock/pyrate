@@ -29,4 +29,6 @@ def play_audio(text: str):
     )
     play(audio)
 
+# Print text and run speech generator
+print(piped_text)
 play_audio(piped_text)
